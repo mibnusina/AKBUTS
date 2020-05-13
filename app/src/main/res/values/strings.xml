@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AKBUTS</string>
+    <string name="title_home">Profil</string>
+    <string name="title_dashboard">Kontak</string>
+    <string name="title_notifications">Daftar Teman</string>
+</resources>
